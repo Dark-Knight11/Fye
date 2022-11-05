@@ -1,4 +1,3 @@
-```
 pragma solidity ^0.4.0;
 
 contract fsmp {
@@ -317,4 +316,3 @@ contract fsmp {
       return storageContractArr.length;
   }
 }
-```
